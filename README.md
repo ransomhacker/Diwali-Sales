@@ -1,4 +1,4 @@
-# Python_Diwali_Sales_Analysis
+# Diwali_Sales_Analysis
 Analysis of Diwali sales data to improve customer experience and sales.
 
 ## Table of Contents
