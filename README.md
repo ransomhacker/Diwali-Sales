@@ -1,13 +1,11 @@
 # Python_Diwali_Sales_Analysis
 Analysis of Diwali sales data to improve customer experience and sales
-### Source File: Diwali Sales data.csv
-### Tools: Python(jupyter notebook), MS excell
-### Libraries: numpy, pandas, matplotlib, seaborn
+## Source File: Diwali Sales data.csv
+## Tools: Python(jupyter notebook), MS excell
+## Libraries: numpy, pandas, matplotlib, seaborn
 
 
-
-
-
+## Review 
 Analysis on number and amount of products is done on the basis of 
 
 Gender,
