@@ -5,6 +5,9 @@ Analysis of Diwali sales data to improve customer experience and sales
 ### Libraries: numpy, pandas, matplotlib, seaborn
 
 
+
+
+
 Analysis on number and amount of products is done on the basis of 
 
 Gender,
