@@ -3,11 +3,11 @@ Analysis of Diwali sales data to improve customer experience and sales
 
 Analysis on number and amount of products is done on the basis of 
 
-Gender
-Age
-Marital Status
-States 
-Occupation
+Gender,
+Age,
+Marital Status,
+States, 
+Occupation and
 Category of products
 
 
