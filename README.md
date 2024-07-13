@@ -10,7 +10,7 @@ Analysis of Diwali sales data to improve customer experience and sales.
 ## Source File: Diwali Sales data.csv
 ## Tools: 
 - Python(jupyter notebook)
--  MS excell
+- MS excel
 ## Libraries: 
 - numpy
 - pandas
